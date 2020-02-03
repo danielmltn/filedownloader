@@ -1,6 +1,6 @@
 {
   "name": "@danielmltn/filedownloader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "utility functions that allow for the easy download of a file to a machine",
   "repository": {
     "type" : "git",
