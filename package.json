@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "webpack --mode production",
-    "test": "jest --verbose"
+    "test": "jest --verbose --coverage"
   },
   "author": "",
   "license": "ISC",
